@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "214353516706",
+    "project_id": "pathyakram-8b837",
+    "storage_bucket": "pathyakram-8b837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214353516706:android:da44af0a27e2a0227c9ffb",
+        "android_client_info": {
+          "package_name": "com.example.pathyakrama_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214353516706-ieai16do4hsginu8ku6icfp2jp3cdomr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pathyakrama_app",
+            "certificate_hash": "31aa0790fdef3255805e9a2c7112cb08ae66573b"
+          }
+        },
+        {
+          "client_id": "214353516706-tf64pd64em2tiqo1vle55p52khjf61ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAol9TlfKpe1DjrTqq2le7_LSiXuBTYIl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214353516706-tf64pd64em2tiqo1vle55p52khjf61ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pathyakram</string>
+    <string name="facebook_app_id">744240043577491</string>
+    <string name="fb_login_protocol_scheme">fb744240043577491</string>
+    <string name="facebook_client_token">d53d1f0946a86ef8d61f64d3584e1ff8</string>
+</resources>
